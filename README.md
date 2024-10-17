@@ -6,6 +6,17 @@ It is a 3D mechanical clockwork, animated with raylib:
 
 ![clock](./doc/clock.png)
 
+
+
+# Web Demo
+
+Here is the link to the Web Demo (It is quite large)
+[https://oetkenpurveyorofcode.github.io/projects/3DClock/](https://oetkenpurveyorofcode.github.io/projects/3DClock/)
+
+# Installation from Binaries
+
+Look at the [releases](https://github.com/OetkenPurveyorOfCode/Clock3D/releases/)
+
 ## Usage
 
 | Key   | Description                                 |
@@ -17,12 +28,7 @@ It is a 3D mechanical clockwork, animated with raylib:
 | U     | Enable/Disable Ticking sound                |
 | click | Move camera / lock camera                   |
 
-
-# Installation
-
-Look at the releases
-
-## Building
+## Building from Source
 
 Use the `build.bat`/`build.sh` file:
 ```
