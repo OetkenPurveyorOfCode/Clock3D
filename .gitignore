@@ -1,0 +1,13 @@
+build/
+
+*.exe
+*.lib
+*.pdb
+*.exp
+
+lf.txt
+Makefile
+nob.c
+nob.exe
+nob.exe.old
+nob.h
