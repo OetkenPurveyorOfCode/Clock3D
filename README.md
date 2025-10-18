@@ -52,7 +52,7 @@ Similarly on Linux:
 ```
 rm -r build/
 export CC=gcc
-export USEFLAGS="-D_GLFW_X11 -DBAKE -O2"
+export USERFLAGS="-D_GLFW_X11 -DBAKE -O2"
 ./build.sh
 ```
 #### Building for web
